@@ -132,11 +132,11 @@ Webcam → MediaPipe Hand Landmarks (63 features)
 [![Click to watch demo](https://drive.google.com/thumbnail?id=1HOs4PpiBdQbzQCTggblnAiG8Elr7mEF7)](https://drive.google.com/file/d/1HOs4PpiBdQbzQCTggblnAiG8Elr7mEF7/view?usp=drivesdk)
 
 ## Output
-<img width="478" height="309" alt="Screenshot 2026-05-07 005322" src="https://github.com/user-attachments/assets/8aefa0eb-4c46-4ed9-b4e8-50071489fafc" />
-<img width="452" height="309" alt="Screenshot 2026-05-07 005346" src="https://github.com/user-attachments/assets/25d72990-c8a0-44fc-8fa2-013cb549e26e" />
-<img width="448" height="311" alt="Screenshot 2026-05-07 005437" src="https://github.com/user-attachments/assets/88e2c661-80b2-481f-9a08-db5f832ff9a9" />
+<img width="478" height="259" alt="Screenshot 2026-05-07 005322" src="https://github.com/user-attachments/assets/8aefa0eb-4c46-4ed9-b4e8-50071489fafc" />
+<img width="452" height="259" alt="Screenshot 2026-05-07 005346" src="https://github.com/user-attachments/assets/25d72990-c8a0-44fc-8fa2-013cb549e26e" />
+<img width="448" height="251" alt="Screenshot 2026-05-07 005437" src="https://github.com/user-attachments/assets/88e2c661-80b2-481f-9a08-db5f832ff9a9" />
 Text Output in Terminal :
-<img width="470" height="293" alt="image" src="https://github.com/user-attachments/assets/9715e2ae-2ae8-4cc4-8d3b-dec4fa72f2ba" />
+<img width="470" height="243" alt="image" src="https://github.com/user-attachments/assets/9715e2ae-2ae8-4cc4-8d3b-dec4fa72f2ba" />
 
 
 
