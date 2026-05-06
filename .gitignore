@@ -4,6 +4,9 @@ venv/
 # Dataset (too large for GitHub)
 dataset/
 
+# Demo video
+demo.mp4
+
 # Python cache
 __pycache__/
 *.pyc

@@ -129,7 +129,7 @@ Webcam → MediaPipe Hand Landmarks (63 features)
 ---
 ## Demo Video
 
-[Click here to watch the demo](https://drive.google.com/file/d/1HOs4PpiBdQbzQCTggblnAiG8Elr7mEF7/view?usp=drivesdk)
+[![Click to watch demo](https://drive.google.com/thumbnail?id=1HOs4PpiBdQbzQCTggblnAiG8Elr7mEF7)](https://drive.google.com/file/d/1HOs4PpiBdQbzQCTggblnAiG8Elr7mEF7/view?usp=drivesdk)
 
 
 
