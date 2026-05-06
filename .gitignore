@@ -4,13 +4,6 @@ venv/
 # Dataset (too large for GitHub)
 dataset/
 
-# Compiled model files
-model/*.h5
-model/*.task
-
-# Processed numpy data
-data/
-
 # Python cache
 __pycache__/
 *.pyc
@@ -18,6 +11,3 @@ __pycache__/
 
 # VS Code
 .vscode/
-
-# Training plots (optional - remove this line if you want to push them)
-model/*.png

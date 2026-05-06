@@ -7,7 +7,7 @@ A real-time computer vision system that recognizes hand gestures and sign langua
 
 ## Demo
 - Show ASL hand signs to webcam → letters form words → system speaks aloud
-- Show HaGRID gestures → instant phrase spoken (e.g. thumbs up = "Yes, I agree")
+- Gesture mode not available in this version (HaGRID dataset not trained)
 
 ---
 
@@ -62,13 +62,11 @@ python -m pip install -r requirements.txt
 
 ### 4. Download datasets
 
-**Phase 1 — Gesture Mode (HaGRID):**
-- https://www.kaggle.com/datasets/innominate817/hagrid-sample-500k-384p
-- Extract into `dataset/gestures/`
-
-**Phase 2 — Alphabet Mode (ASL):**
+**Alphabet Mode (ASL):**
 - https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 - Extract into `dataset/alphabet/`
+
+> Note: HaGRID gesture dataset not used in this version.
 
 ### 5. Download MediaPipe hand model
 ```bash
@@ -105,8 +103,8 @@ python real_time_detection.py
 ## Model Performance
 | Model | Accuracy |
 |-------|---------|
-| Alphabet (ASL A-Z) | 99.50% |
-| Gesture (HaGRID 18 classes) | Training in progress |
+| Alphabet (ASL A-Z) | 99.44% |
+| Gesture (HaGRID 18 classes) | Not trained (HaGRID dataset not used) |
 
 ---
 
@@ -129,6 +127,9 @@ Webcam → MediaPipe Hand Landmarks (63 features)
 - Mobile deployment with TensorFlow Lite
 
 ---
+## Demo Video 
+
+
 
 ## License
 MIT License — free to use, modify, and distribute.
