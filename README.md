@@ -129,7 +129,7 @@ Webcam → MediaPipe Hand Landmarks (63 features)
 ---
 ## Demo Video
 
-https://github.com/gayatri-d11/GestureSpeak/blob/main/demo.mp4
+[Click here to watch the demo](https://drive.google.com/file/d/1HOs4PpiBdQbzQCTggblnAiG8Elr7mEF7/view?usp=drivesdk)
 
 
 
