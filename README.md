@@ -133,5 +133,5 @@ Webcam → MediaPipe Hand Landmarks (63 features)
 
 
 
-## License
-MIT License — free to use, modify, and distribute.
+## Developed by : Gayatri Dabare  &  Aditya Raut
+
