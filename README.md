@@ -131,6 +131,8 @@ Webcam → MediaPipe Hand Landmarks (63 features)
 
 [![Click to watch demo](https://drive.google.com/thumbnail?id=1HOs4PpiBdQbzQCTggblnAiG8Elr7mEF7)](https://drive.google.com/file/d/1HOs4PpiBdQbzQCTggblnAiG8Elr7mEF7/view?usp=drivesdk)
 
+<img width="648" height="511" alt="Screenshot 2026-05-07 005437" src="https://github.com/user-attachments/assets/88e2c661-80b2-481f-9a08-db5f832ff9a9" />
+
 
 
 ## Developed by : Gayatri Dabare  &  Aditya Raut
