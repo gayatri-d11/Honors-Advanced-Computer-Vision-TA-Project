@@ -127,7 +127,9 @@ Webcam → MediaPipe Hand Landmarks (63 features)
 - Mobile deployment with TensorFlow Lite
 
 ---
-## Demo Video 
+## Demo Video
+
+https://github.com/gayatri-d11/GestureSpeak/blob/main/demo.mp4
 
 
 
